@@ -2,6 +2,7 @@
 A collection of my (danimalforlife) small-scale visual mods. Larger mods like Technicolor River, DMX, and Invisible Maps not included. I would suggets putting this towards the bottom of your mod list, but above the GoA and required luas.
 
 Includes the following:
+
 -danima64glare
 -marioS
 -wallpeO
