@@ -1,0 +1,2197 @@
+title: Danimalforlife Mod Pack
+originalAuthor: danimalforlife
+description: |+
+  A collection of my (danimalforlife) small-scale visual mods. Larger mods like Technicolor River, DMX, and Invisible Maps not included. I would suggets putting this towards the bottom of your mod list, but above the GoA and required luas.
+
+  Includes the following:
+  -danima64glare
+  -marioS
+  -wallpeO
+  -MEMBERSHIP CARD
+  -DEEZrezzed
+  -You Lose
+  -YEETERS HELP YEETERS
+  -PTSD
+  -Google PNGs
+  -Zordon
+  -Castle of Remembrance
+  -PAUSERS
+  -Balls in Chat
+  -Pocket Ball
+  -CHOOCHOO
+  -That Dawg In Me
+  -KACHOW
+  -Prince Adam
+  -BEE
+  -BEER
+  -YEET
+  -Nighttime Coliseum
+  -Guitar Hero
+  -They'll Pay For This
+  -MUSTARD
+  -TIPPER
+  -TLC
+
+dependencies: 
+assets:
+###############
+#danima64glare#
+###############
+- name: remastered\map\eh20.map\-0.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-0.dds
+- name: remastered\map\eh20.map\-1.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-1.dds
+- name: remastered\map\eh20.map\-10.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-10.dds
+- name: remastered\map\eh20.map\-11.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-11.dds
+- name: remastered\map\eh20.map\-12.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-12.dds
+- name: remastered\map\eh20.map\-13.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-13.dds
+- name: remastered\map\eh20.map\-2.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-2.dds
+- name: remastered\map\eh20.map\-3.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-3.dds
+- name: remastered\map\eh20.map\-4.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-4.dds
+- name: remastered\map\eh20.map\-5.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-5.dds
+- name: remastered\map\eh20.map\-6.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-6.dds
+- name: remastered\map\eh20.map\-7.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-7.dds
+- name: remastered\map\eh20.map\-8.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-8.dds
+- name: remastered\map\eh20.map\-9.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-9.dds
+
+########
+#marioS#
+########
+#Icon
+- name: remastered\itempic\item-231.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\-0.dds
+
+#Wall Drawings
+- name: remastered\map\tt18.map\-2.dds
+  method: copy
+  source:
+  - name: remastered\-2.dds
+
+- name: remastered\map\tt18.map\-7.dds
+  method: copy
+  source:
+  - name: remastered\-7.dds
+
+- name: remastered\map\tt18.map\-8.dds
+  method: copy
+  source:
+  - name: remastered\-8.dds
+
+- name: remastered\map\tt18.map\-9.dds
+  method: copy
+  source:
+  - name: remastered\-9.dds
+
+- name: remastered\map\tt18.map\-10.dds
+  method: copy
+  source:
+  - name: remastered\-10.dds
+
+- name: remastered\map\tt18.map\-18.dds
+  method: copy
+  source:
+  - name: remastered\-18.dds
+
+#Namine's Sketch
+- name: remastered\obj\F_EX510.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\-1.dds
+
+- name: remastered\obj\F_EX510.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\-02.dds
+
+- name: remastered\obj\F_EX510.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\-00.dds
+
+
+#########
+#wallpeO#
+#########
+- name: remastered\obj\W_EX030.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030.mdlx\-0.dds
+- name: remastered\obj\W_EX030_NM.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX030_TR.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX030_WI.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX030_WI.mdlx\-0.dds
+- name: remastered\itempic\item-080.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-080.imd\-0.dds
+
+#################
+#MEMBERSHIP CARD#
+#################
+###Membership Card Object###
+- name: remastered/obj/F_HB690.mdlx/-0.dds
+  method: copy
+  source:
+  - name: wallpeO/membershipcard.dds
+
+###Membership Card Item Icon###
+- name: remastered/itempic/item-232.imd/-0.dds
+  method: copy
+  source:
+  - name: wallpeO/itemcard.dds
+
+############
+#DEEZrezzed#
+############
+- name: remastered\obj\F_TR160.mdlx\-6.dds
+  method: copy
+  source:
+  - name: texture\horny.dds
+- name: remastered\obj\F_TR160.a.us\voice\battle\us\tr_computer
+  method: copy
+  source:
+  - name: voice\horny
+
+##########
+#You Lose#
+##########
+- name: remastered\obj\N_EX760_BTL.a.us\-17.dds
+  method: copy
+  source:
+  - name: loser\lose.dds
+
+######################
+#YEETERS HELP YEETERS#
+######################
+#Room Titles
+- name: remastered\map\us\po00.bar\US_po00_bar0.dds
+  method: copy
+  source:
+  - name: remastered\YEETERS HELP.dds
+- name: remastered\map\us\po01.bar\US_po01_bar0.dds
+  method: copy
+  source:
+  - name: remastered\YEETERS HELP.dds
+- name: remastered\map\us\po02.bar\US_po02_bar0.dds
+  method: copy
+  source:
+  - name: remastered\YEETERS HELP.dds
+- name: remastered\map\us\po03.bar\US_po03_bar0.dds
+  method: copy
+  source:
+  - name: remastered\YEETERS HELP.dds
+- name: remastered\map\us\po04.bar\US_po04_bar0.dds
+  method: copy
+  source:
+  - name: remastered\YEETERS HELP.dds
+- name: remastered\map\us\po05.bar\US_po05_bar0.dds
+  method: copy
+  source:
+  - name: remastered\YEETERS HELP.dds
+
+#Transition
+- name: remastered\field2d\us\po0field.2dd\US_po0field_2dd2.png
+  method: copy
+  source:
+  - name: remastered\YEETERS.png
+
+#Door
+- name: remastered\map\hb26.map\-19.DDS
+  method: copy
+  source:
+  - name: remastered\YEETERS-DOOR.dds
+- name: remastered\map\hb26.map\-20.DDS
+  method: copy
+  source:
+  - name: remastered\YEETERS-GLASS.dds
+
+######
+#PTSD#
+######
+- name: remastered/map/us/lm10.bar/US_lm10_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu00.bar/US_mu00_bar0.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/thanks_ptsd.png
+- name: remastered/map/us/mu01.bar/US_mu01_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu02.bar/US_mu02_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu03.bar/US_mu03_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu04.bar/US_mu04_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu05.bar/US_mu05_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu06.bar/US_mu06_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu07.bar/US_mu07_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu08.bar/US_mu08_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu09.bar/US_mu09_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu10.bar/US_mu10_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu11.bar/US_mu11_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu12.bar/US_mu12_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd2.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/roro.png
+- name: bgm/music112.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: bgm/PTSD.scd
+- name: bgm/music116.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: bgm/PTSD.scd
+
+#############
+#Google PNGs#
+#############
+#Rapid Thruster (CROWD)
+- name: remastered\obj\M_EX660_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\M_EX660_CROWD.mdlx\-0.dds
+
+#Rapid Thruster (E_CROWD)
+- name: remastered\obj\M_EX660_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\M_EX660_E_CROWD.mdlx\-0.dds
+
+#Armored Knight (CROWD)
+- name: remastered\obj\M_EX760_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\M_EX760_CROWD.mdlx\-0.dds
+
+#Surveillance Robot (CROWD)
+- name: remastered\obj\M_EX760_CROWD.mdlx\-1.dds
+  method: copy
+  source:
+  - name: Untransparent\M_EX760_CROWD.mdlx\-1.dds
+
+#Bolt Tower (E_CROWD)
+- name: remastered\obj\M_EX800_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\M_EX800_E_CROWD.mdlx\-0.dds
+
+#Dusk (E_CROWD)
+- name: remastered\obj\M_EX990_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\M_EX990_E_CROWD.mdlx\-0.dds
+
+#Wildebeest (E_CROWD_1)
+- name: remastered\obj\N_LK070_E_CROWD_1.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\N_LK070_E_CROWD_1.mdlx\-0.dds
+
+#Wildebeest (E_CROWD_2)
+- name: remastered\obj\N_LK070_E_CROWD_2.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\N_LK070_E_CROWD_2.mdlx\-0.dds
+
+#Wildebeest (E_CROWD_3)
+- name: remastered\obj\N_LK070_E_CROWD_3.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\N_LK070_E_CROWD_3.mdlx\-0.dds
+
+#Chinese Soldier 1 (E_CROWD) (MU)
+- name: remastered\obj\N_MU060_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Untransparent\N_MU060_E_CROWD.mdlx\-0.dds
+
+#Chinese Soldier 2 (E_CROWD) (MU)
+- name: remastered\obj\N_MU060_E_CROWD.mdlx\-1.dds
+  method: copy
+  source:
+  - name: Untransparent\N_MU060_E_CROWD.mdlx\-1.dds
+
+########
+#Zordon#
+########
+#MCP Object
+- name: obj\B_TR020.mdlx
+  method: copy
+  source:
+  - name: obj\zordon.mdlx
+
+#MCP Filter
+- name: remastered\obj\B_TR020.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\blue.dds
+
+#MCP Face
+- name: remastered\obj\B_TR020.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\face.dds
+
+#MCP Mesh
+- name: remastered\obj\F_TR570.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\mesh.dds
+- name: remastered\obj\F_TR580_GM.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\mesh.dds
+- name: remastered\obj\N_TR580_GM.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\mesh.dds
+
+#Barrier
+- name: remastered\obj\F_TR050.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\ooze.dds
+
+#MCP Voice
+- name: remastered\obj\B_TR020.a.us\voice\battle\us\mcp
+  method: copy
+  source:
+  - name: voice\zordon
+
+#Large Sark Voice
+- name: remastered\obj\N_TR010_BTL_L.a.us\voice\battle\us\large_sark
+  method: copy
+  source:
+  - name: voice\alpha
+
+#######################
+#Castle of Remembrance#
+#######################
+- name: remastered\map\us\hb21.bar\US_hb21_bar0.dds
+  method: copy
+  source:
+  - name: transitions\depths.dds
+
+- name: remastered\map\us\hb22.bar\US_hb22_bar0.dds
+  method: copy
+  source:
+  - name: transitions\mining.dds
+
+- name: remastered\map\us\hb23.bar\US_hb23_bar0.dds
+  method: copy
+  source:
+  - name: transitions\engine.dds
+
+- name: remastered\map\us\hb24.bar\US_hb24_bar0.dds
+  method: copy
+  source:
+  - name: transitions\mineshaft.dds
+
+- name: remastered\map\us\hb25.bar\US_hb25_bar0.dds
+  method: copy
+  source:
+  - name: transitions\transport.dds
+
+#########
+#PAUSERS#
+#########
+- name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
+  multi:
+  - name: remastered/menu/fm/pause.2ld/-1.dds
+  - name: remastered/menu/fm/pause.2ld/FR_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/GR_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/IT_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/SP_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/UK_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/US_pause_2ld1.dds
+  - name: remastered/menu/fr/pause.2ld/FR_pause_2ld1.dds
+  - name: remastered/menu/gr/pause.2ld/GR_pause_2ld1.dds
+  - name: remastered/menu/it/pause.2ld/IT_pause_2ld1.dds
+  - name: remastered/menu/sp/pause.2ld/SP_pause_2ld1.dds
+  - name: remastered/menu/uk/pause.2ld/UK_pause_2ld1.dds
+  - name: remastered/menu/fr/pause.2ld/UK_pause_2ld1.dds
+  method: copy
+  source:
+  - name: PAUSERS.dds
+
+###############
+#Balls In Chat#
+###############
+###Roxas Fight Sound Effects###
+- name: remastered/obj/B_EX390.a.us/se/obj/se393
+  method: copy
+  source:
+  - name: balls/balls
+
+#############
+#Pocket Ball#
+#############
+###Present Model###
+- name: obj/F_NM170_CATCH.mdlx
+  method: copy
+  source:
+  - name: obj/F_NM170_CATCH.mdlx
+
+###Present Texture###
+- name: remastered/obj/F_NM170_CATCH.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_NM170_CATCH.mdlx/-0.dds
+
+###Open/Closed Present and Kids Picture###
+- name: remastered/msn/us/NM10_MS201.bar/US_NM10_MS201_bar0.png
+  multi:
+  - name: remastered/msn/fr/NM10_MS201.bar/FR_NM10_MS201_bar0.png
+  - name: remastered/msn/gr/NM10_MS201.bar/GR_NM10_MS201_bar0.png
+  - name: remastered/msn/it/NM10_MS201.bar/IT_NM10_MS201_bar0.png
+  - name: remastered/msn/sp/NM10_MS201.bar/SP_NM10_MS201_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/fr/NM10_MS201.bar/FR_NM10_MS201_bar0.png
+
+##########
+#CHOOCHOO#
+##########
+###Objects###
+
+#Tram#
+- name: obj/F_TT000.mdlx
+  package: kh2_first
+  method: copy
+  source:
+  - name: obj/F_TT000.mdlx
+
+#Magic Train#
+- name: obj/F_TT600.mdlx
+  package: kh2_first
+  method: copy
+  source:
+  - name: obj/F_TT600.mdlx
+
+#Magic Train (10)#
+- name: obj/F_TT600_10.mdlx
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/F_TT600_10.mdlx
+
+#Train#
+- name: obj/F_TT620.mdlx
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/F_TT620.mdlx
+
+#Train (Mirrored)#
+- name: obj/F_TT620_10.mdlx
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/F_TT620_10.mdlx
+
+###Train (Roxas interacts with)
+- name: obj/F_EX560.mdlx
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/F_EX560.mdlx
+
+###Textures###
+
+#Tram#
+- name: remastered/obj/F_TT000.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/F_TT600.mdlx/-0.dds
+  package: kh2_first
+  method: copy
+  source:
+  - name: texture/-0.dds
+
+- name: remastered/obj/F_TT600_10.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/F_TT620.mdlx/-0.dds
+  - name: remastered/obj/F_TT620_10.mdlx/-0.dds
+  - name: remastered/obj/F_EX560.mdlx/-0.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: texture/-0.dds
+
+#Doors#
+- name: remastered/obj/F_TT610.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/F_TT610.mdlx/-1.dds
+  - name: remastered/obj/F_TT610.mdlx/-2.dds
+  - name: remastered/obj/F_TT611.mdlx/-0.dds
+  - name: remastered/obj/F_TT611.mdlx/-1.dds
+  - name: remastered/obj/F_EX611.mdlx/-2.dds
+  - name: remastered/obj/F_TT630.mdlx/-0.dds
+  - name: remastered/obj/F_TT630.mdlx/-1.dds
+  - name: remastered/obj/F_TT630.mdlx/-2.dds
+  - name: remastered/obj/F_TT631.mdlx/-0.dds
+  - name: remastered/obj/F_TT631.mdlx/-1.dds
+  - name: remastered/obj/F_EX631.mdlx/-2.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: texture/-1.dds
+
+###Sound###
+- name: remastered/obj/F_TT000.a.us/se/obj/se348
+  package: kh2_first
+  method: copy
+  source:
+  - name: sound/se348
+
+#################
+#That Dawg In Me#
+#################
+###Cerberus###
+- name: obj/B_HE020.mdlx
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: pluto/PLUTO.mdlx
+
+- name: obj/B_HE020_GM.mdlx
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: pluto/PLUTO.mdlx
+
+###Textures###
+- name: remastered/obj/B_HE020.mdlx/-0.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: pluto/-0.png
+
+- name: remastered/obj/B_HE020.mdlx/-1.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: pluto/-1.png
+
+- name: remastered/obj/B_HE020_GM.mdlx/-0.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: pluto/-0.png
+
+- name: remastered/obj/B_HE020_GM.mdlx/-1.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: pluto/-1.png
+
+########
+#KACHOW#
+########
+#Hot Rod and Mad Ride Models#
+- name: obj/M_EX640.mdlx #Only used in cups
+  multi:
+  - name: obj/M_EX640_HB.mdlx #Mad Ride
+  - name: obj/M_EX640_WI.mdlx #Timeless River
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: m_ex
+    type: model
+    method: copy
+    source:
+    - name: KACHOW/M_EX640.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: KACHOW/M_EX640.texture
+
+#HD Textures#
+- name: remastered/obj/M_EX640.mdlx/-0.dds #Only used in cups
+  multi:
+  - name: remastered/obj/M_EX640_HB.mdlx/-0.dds #Mad Ride
+  - name: remastered/obj/M_EX640_WI.mdlx/-0.dds #Timeless River
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: KACHOW/-0.dds
+
+- name: remastered/obj/M_EX640.mdlx/-1.dds #Only used in cups
+  multi:
+  - name: remastered/obj/M_EX640_HB.mdlx/-1.dds #Mad Ride
+  - name: remastered/obj/M_EX640_WI.mdlx/-1.dds #Timeless River
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: KACHOW/-1.dds
+
+- name: remastered/obj/M_EX640.mdlx/-2.dds #Only used in cups
+  multi:
+  - name: remastered/obj/M_EX640_HB.mdlx/-2.dds #Mad Ride
+  - name: remastered/obj/M_EX640_WI.mdlx/-2.dds #Timeless River
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: KACHOW/-2.dds
+
+#Sounds#
+- name: remastered/obj/M_EX640.a.us/se/obj/se230 #Regular (cups only?)
+  multi:
+  - name: remastered/obj/M_EX640_HB.a.us/se/obj/se230 #Mad Ride
+  - name: remastered/obj/M_EX640_WI.a.us/se/obj/se230 #Timeless River
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: KACHOW/KACHOW
+
+#Sounds (PS2 Version)#
+- name: se/se230.win32.scd #Regular (cups only?)
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: KACHOW/KACHOW.scd
+
+#############
+#Prince Adam#
+#############
+#Model Replacements#
+
+#Beast - Low Poly
+- name: obj/P_BB000.mdlx
+  multi: 
+  - name: obj/P_BB000_BTL.mdlx
+  - name: obj/P_BB000_TSURU.mdlx
+  - name: obj/P_BB000_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_bb
+    type: model
+    method: copy
+    source:
+    - name: adam/adam_lp.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: adam/adam.texture
+
+#Beast - Suit
+- name: obj/N_BB020_TSURU.mdlx
+  multi: 
+  - name: obj/N_BB020_RTN.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_bb
+    type: model
+    method: copy
+    source:
+    - name: adam/adam_lp_suit.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: adam/adam.texture
+
+#Beast - High Poly
+- name: obj/H_BB010.mdlx
+  multi: 
+  - name: obj/H_BB010_TSURU.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: h_bb
+    type: model
+    method: copy
+    source:
+    - name: adam/adam_hp.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: adam/adam.texture
+
+#Beast - High Poly Suit
+- name: obj/H_BB010.mdlx
+  multi: 
+  - name: obj/H_BB020_TSURU.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: h_bb
+    type: model
+    method: copy
+    source:
+    - name: adam/adam_hp_suit.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: adam/adam.texture
+
+#Beast Textures
+- name: remastered/obj/P_BB000/-0.dds
+  multi:
+  - name: remastered/obj/P_BB000_BTL/-0.dds
+  - name: remastered/obj/P_BB000_TSURU/-0.dds
+  - name: remastered/obj/P_BB000_RTN/-0.dds
+  package: kh2_sixth
+  platform: pc
+  method: copy
+  source:
+  - name: textures/0.dds
+
+- name: remastered/obj/N_BB020_TSURU/-0.dds
+  multi:
+  - name: remastered/obj/N_BB020_RTN/-0.dds
+  - name: remastered/obj/H_BB010/-0.dds
+  - name: remastered/obj/H_BB010_TSURU/-0.dds
+  - name: remastered/obj/H_BB020_TSURU/-0.dds
+  package: kh2_fifth
+  platform: pc
+  method: copy
+  source:
+  - name: textures/0.dds
+
+- name: remastered/obj/P_BB000/-1.dds
+  multi:
+  - name: remastered/obj/P_BB000_BTL/-1.dds
+  - name: remastered/obj/P_BB000_TSURU/-1.dds
+  - name: remastered/obj/P_BB000_RTN/-1.dds
+  package: kh2_sixth
+  platform: pc
+  method: copy
+  source:
+  - name: textures/1.dds
+
+- name: remastered/obj/N_BB020_TSURU/-1.dds
+  multi:
+  - name: remastered/obj/N_BB020_RTN/-1.dds
+  - name: remastered/obj/H_BB010/-1.dds
+  - name: remastered/obj/H_BB010_TSURU/-1.dds
+  - name: remastered/obj/H_BB020_TSURU/-1.dds
+  package: kh2_fifth
+  platform: pc
+  method: copy
+  source:
+  - name: textures/1.dds
+
+- name: remastered/obj/P_BB000/-2.dds
+  multi:
+  - name: remastered/obj/P_BB000_BTL/-2.dds
+  - name: remastered/obj/P_BB000_TSURU/-2.dds
+  - name: remastered/obj/P_BB000_RTN/-2.dds
+  package: kh2_sixth
+  platform: pc
+  method: copy
+  source:
+  - name: textures/2.dds
+
+- name: remastered/obj/N_BB020_TSURU/-2.dds
+  multi:
+  - name: remastered/obj/N_BB020_RTN/-2.dds
+  - name: remastered/obj/H_BB010/-2.dds
+  - name: remastered/obj/H_BB010_TSURU/-2.dds
+  - name: remastered/obj/H_BB020_TSURU/-2.dds
+  package: kh2_fifth
+  platform: pc
+  method: copy
+  source:
+  - name: textures/2.dds
+
+#####
+#BEE#
+#####
+
+###############
+#PS2 .dpd File#
+###############
+- name: effect/texcommon.dpd
+  platform: ps2
+  package: kh2_first
+  method: copy
+  source:
+  - name: BEE_PS2_Image/BEE.dpd
+
+- name: event/effect/eh_event_115.pax
+  platform: ps2
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: BEE_PS2_Image/BEE.pax
+
+#################
+#PC Effect Files#
+#################
+- name: remastered/effect/texcommon.dpd/-3.dds
+  platform: pc
+  package: kh2_first
+  method: copy
+  source:
+  - name: BEE_Image/BEE_Heart.dds
+
+- name: remastered/event/effect/eh_event_115.pax/-0.dds
+  platform: pc
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: BEE_Image/BEE_World.dds
+
+
+###################
+#Model Replacement#
+###################
+- name: obj/F_EH570.mdlx
+  multi: 
+  - name: obj/F_EH580.mdlx
+  platform: ps2
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: f_eh
+    type: model
+    method: copy
+    source:
+    - name: BEE_Model/BEE.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: BEE_Model/BEE.texture
+
+- name: obj/F_EH570.mdlx
+  multi: 
+  - name: obj/F_EH580.mdlx
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: f_eh
+    type: model
+    method: copy
+    source:
+    - name: BEE_Model/BEE.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: BEE_Model/BEE.texture
+
+#########################
+#PC Texture Replacements#
+#########################
+- name: remastered/obj/F_EH570.mdlx/-0.dds
+  multi: 
+  - name: remastered/obj/F_EH580.mdlx/-0.dds
+  platform: pc
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: BEE_Model/BEE0.dds
+
+- name: remastered/obj/F_EH570.mdlx/-1.dds
+  multi: 
+  - name: remastered/obj/F_EH580.mdlx/-1.dds
+  platform: pc
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: BEE_Model/BEE1.dds
+
+
+######
+#BEER#
+######
+#######################
+###Text Replacements###
+#######################
+
+#sys.bar#
+- method: binarc
+  multi:
+  - name: msg/us/sys.bar
+  - name: msg/uk/sys.bar
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  name: msg/jp/sys.bar
+  package: kh2_first
+  source:
+  - method: kh2msg
+    name: sys
+    source:
+    - language: en
+      name: BEER_Text/sys.yml
+    type: list
+
+
+###################
+#Model Replacement#
+###################
+- name: obj/F_EH050.mdlx
+  multi: 
+  - name: obj/F_EH060.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: f_eh
+    type: model
+    method: copy
+    source:
+    - name: BEER_Model/BEER.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: BEER_Model/BEER.texture
+
+#########################
+#PC Texture Replacements#
+#########################
+- name: remastered/obj/F_EH050.mdlx/-0.dds
+  multi: 
+  - name: remastered/obj/F_EH060.mdlx/-0.dds
+  platform: pc
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: BEER_Texture/BEER.dds
+
+###############
+#STUART LITTLE#
+###############
+###################
+#Model Replacement#
+###################
+
+#HD Model
+- name: obj/H_DC010.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: h_dc
+    type: model
+    method: copy
+    source:
+    - name: Stuart_Model/StuartHD.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: Stuart_Model/StuartHD.texture
+
+#SD Model
+- name: obj/N_DC010_BTL.mdlx
+  multi: 
+  - name: obj/N_DC010_RTN.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_dc
+    type: model
+    method: copy
+    source:
+    - name: Stuart_Model/StuartSD.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: Stuart_Model/StuartSD.texture
+
+###############
+#Battle Quotes#
+###############
+
+- name: voice/us/battle/minnie.win32.scd
+  platform: pc
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: Stuart_Voice/Stuart.scd
+
+- name: remastered/obj/N_DC010_BTL.a.us/voice/battle/us/minnie
+  platform: pc
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: Stuart_Voice/Stuart.scd
+
+
+#############
+#Minnie Icon#
+#############
+
+- name: msn/jp/DC00_MS101.bar
+  multi: 
+  - name: msn/jp/DC02_MS100.bar
+  - name: msn/jp/DC02_MS101.bar
+  platform: ps2
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: Stuart_Icon/Stuart.bar
+
+- name: remastered/msn/us/DC00_MS101.bar/US_DC00_MS101_bar0.png
+  multi: 
+  - name: remastered/msn/us/DC02_MS100.bar/US_DC02_MS100_bar0.png
+  - name: remastered/msn/us/DC02_MS101.bar/US_DC02_MS101_bar0.png
+  - name: remastered/msn/fr/DC00_MS101.bar/FR_DC00_MS101_bar0.png
+  - name: remastered/msn/fr/DC02_MS100.bar/FR_DC02_MS100_bar0.png
+  - name: remastered/msn/fr/DC02_MS101.bar/FR_DC02_MS101_bar0.png
+  - name: remastered/msn/gr/DC00_MS101.bar/GR_DC00_MS101_bar0.png
+  - name: remastered/msn/gr/DC02_MS100.bar/GR_DC02_MS100_bar0.png
+  - name: remastered/msn/gr/DC02_MS101.bar/GR_DC02_MS101_bar0.png
+  - name: remastered/msn/it/DC00_MS101.bar/IT_DC00_MS101_bar0.png
+  - name: remastered/msn/it/DC02_MS100.bar/IT_DC02_MS100_bar0.png
+  - name: remastered/msn/it/DC02_MS101.bar/IT_DC02_MS101_bar0.png
+  - name: remastered/msn/sp/DC00_MS101.bar/SP_DC00_MS101_bar0.png
+  - name: remastered/msn/sp/DC02_MS100.bar/SP_DC02_MS100_bar0.png
+  - name: remastered/msn/sp/DC02_MS101.bar/SP_DC02_MS101_bar0.png
+  platform: pc
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: Stuart_Icon/Stuart.png
+
+######
+#YEET#
+######
+###Genie Summon Voice###
+- name: remastered/obj/P_AL010.a.us/se/obj
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: genie/genie
+
+####################
+#Nighttime Coliseum#
+####################
+#Maps#
+#Coliseum Gates - Good - Day - Normal#
+- name: map/he01.map
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: map/he01.map
+
+#Coliseum Gates - Ruin - Day - Normal and Cutscene#
+- name: map/he02.map
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: map/he02.map
+
+#Coliseum Gates - Ruin - Night - Hydra Fight#
+- name: map/he18.map
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: map/he18.map
+
+#############
+#Guitar Hero#
+#############
+###Kingdom Key Object###
+- name: obj/W_EX010.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010.mdlx
+
+###Kingdom Key Texture###
+- name: remastered/obj/W_EX010.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010.mdlx/-0.dds
+
+###Kingdom Key Item Pic###
+- name: remastered/itempic/item-043.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-043.imd/-0.dds
+
+###Kingdom Key Name and Description###
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/us/sys.bar
+  - name: msg/jp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: en
+
+###Kingdom Key Sound Effects###
+- name: remastered/obj/W_EX010.a.us/se/obj/se500
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010.a.us/se/obj/se500
+
+######################
+#They'll Pay For This#
+######################
+###Models###
+#Goofy - Standard#
+- name: obj/P_EX030.mdlx
+  multi:
+  - name: obj/P_EX030_RTN.mdlx
+  - name: obj/P_EX030_WM.mdlx
+  - name: obj/P_EX030_NOBG_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_ex
+    type: model
+    method: copy
+    source:
+    - name: goofy/P_EX030.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/P_EX030.texture
+
+
+#Goofy - Standard - High Poly#
+- name: obj/H_ZZ030.mdlx
+  multi:
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: h_zz
+    type: model
+    method: copy
+    source:
+    - name: goofy/H_ZZ030.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/H_ZZ030.texture
+
+
+#Goofy - Atlantica#
+- name: obj/N_LM020_PLY.mdlx
+  multi:
+  - name: obj/N_LM020_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: n_lm
+    type: model
+    method: copy
+    source:
+    - name: goofy/N_LM020_PLY.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/N_LM020_PLY.texture
+
+
+#Goofy - Atlantica - High Poly#
+- name: obj/H_LM080.mdlx
+  multi:
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: h_lm
+    type: model
+    method: copy
+    source:
+    - name: goofy/H_LM080.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/H_LM080.texture
+
+
+#Goofy - Casual - High Poly#
+- name: obj/H_ZZ050.mdlx
+  multi:
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: h_lm
+    type: model
+    method: copy
+    source:
+    - name: goofy/H_ZZ050.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/H_ZZ050.texture
+
+
+#Goofy - Christmas Town#
+- name: obj/P_EX030_XM.mdlx
+  multi:
+  - name: obj/P_EX030_XM_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_ex
+    type: model
+    method: copy
+    source:
+    - name: goofy/P_EX030_XM.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/P_EX030_XM.texture
+
+
+#Goofy - Halloween Town#
+- name: obj/P_EX030_NM.mdlx
+  multi:
+  - name: obj/P_EX030_NM_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_ex
+    type: model
+    method: copy
+    source:
+    - name: goofy/P_EX030_NM.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/P_EX030_NM.texture
+
+
+#Goofy - Pride Lands#
+- name: obj/P_LK030.mdlx
+  multi:
+  - name: obj/P_LK030_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_lk
+    type: model
+    method: copy
+    source:
+    - name: goofy/P_LK030.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/P_LK030.texture
+
+
+#Goofy - Space Paranoids#
+- name: obj/P_EX030_TR.mdlx
+  multi:
+  - name: obj/P_EX030_TR_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_ex
+    type: model
+    method: copy
+    source:
+    - name: goofy/P_EX030_TR.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/P_EX030_TR.texture
+
+
+#Goofy - Space Paranoids - Red Lines#
+- name: obj/P_EX030_TR_TSURU.mdlx
+  multi:
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_ex
+    type: model
+    method: copy
+    source:
+    - name: goofy/P_EX030_TR_TSURU.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/P_EX030_TR_TSURU.texture
+
+
+#Goofy - Space Paranoids - High Poly#
+- name: obj/H_ZZ030_TR.mdlx
+  multi:
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: h_zz
+    type: model
+    method: copy
+    source:
+    - name: goofy/H_ZZ030_TR.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/H_ZZ030_TR.texture
+
+
+#Goofy - Timeless River#
+- name: obj/P_WI030.mdlx
+  multi:
+  - name: obj/P_WI030_RTN.mdlx
+  package: kh2_sixth
+  method: binarc
+  source:
+  - name: p_wi
+    type: model
+    method: copy
+    source:
+    - name: goofy/P_WI030.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: goofy/P_WI030.texture
+
+
+
+
+###HD Textures###
+#Goofy - Standard#
+- name: remastered/obj/P_EX030.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/P_EX030_RTN.mdlx/-0.dds
+  - name: remastered/obj/P_EX030_WM.mdlx/-0.dds
+  - name: remastered/obj/P_EX030_NOBG_RTN.mdlx/-0.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-0standard.dds
+- name: remastered/obj/P_EX030.mdlx/-1.dds
+  multi:
+  - name: remastered/obj/P_EX030_RTN.mdlx/-1.dds
+  - name: remastered/obj/P_EX030_WM.mdlx/-1.dds
+  - name: remastered/obj/P_EX030_NOBG_RTN.mdlx/-1.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-1standard.dds
+- name: remastered/obj/P_EX030.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/P_EX030_RTN.mdlx/-2.dds
+  - name: remastered/obj/P_EX030_WM.mdlx/-2.dds
+  - name: remastered/obj/P_EX030_NOBG_RTN.mdlx/-2.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0002GoofyStone.dds
+
+
+#Goofy - Standard - High Poly#
+- name: remastered/obj/H_ZZ030.mdlx/-0.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/Texture0000GoofyStone.dds
+- name: remastered/obj/H_ZZ030.mdlx/-1.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-1HP.dds
+- name: remastered/obj/H_ZZ030.mdlx/-2.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-2HP.dds
+- name: remastered/obj/H_ZZ030.mdlx/-3.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-3HP.dds
+
+
+#Goofy - Atlantica#
+- name: remastered/obj/N_LM020_PLY.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/N_LM020_RTN.mdlx/-0.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-0LM.dds
+- name: remastered/obj/N_LM020_PLY.mdlx/-1.dds
+  multi:
+  - name: remastered/obj/N_LM020_RTN.mdlx/-1.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0002GoofyStone.dds
+
+
+#Goofy - Atlantica - High Poly#
+- name: remastered/obj/H_LM080.mdlx/-0.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/Texture0000GoofyStone.dds
+- name: remastered/obj/H_LM080.mdlx/-1.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-0LM.dds
+
+
+#Goofy - Casual - High Poly#
+- name: remastered/obj/H_ZZ050.mdlx/-0.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-0Casual.dds
+- name: remastered/obj/H_ZZ050.mdlx/-1.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-1Casual.dds
+- name: remastered/obj/H_ZZ050.mdlx/-2.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/Texture0000GoofyStone.dds
+
+
+#Goofy - Christmas Town#
+- name: remastered/obj/P_EX030_XM.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/P_EX030_XM_RTN.mdlx/-0.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0002XMStone.dds
+- name: remastered/obj/P_EX030_XM.mdlx/-1.dds
+  multi:
+  - name: remastered/obj/P_EX030_XM_RTN.mdlx/-1.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-6XM.dds
+- name: remastered/obj/P_EX030_XM.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/P_EX030_XM_RTN.mdlx/-2.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-1XM.dds
+- name: remastered/obj/P_EX030_XM.mdlx/-3.dds
+  multi:
+  - name: remastered/obj/P_EX030_XM_RTN.mdlx/-3.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-0XM.dds
+
+
+#Goofy - Halloween Town#
+- name: remastered/obj/P_EX030_NM.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/P_EX030_NM_RTN.mdlx/-0.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-0NM.dds
+- name: remastered/obj/P_EX030_NM.mdlx/-1.dds
+  multi:
+  - name: remastered/obj/P_EX030_NM_RTN.mdlx/-1.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0001NMStone.dds
+- name: remastered/obj/P_EX030_NM.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/P_EX030_NM_RTN.mdlx/-2.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-3NM.dds
+
+
+#Goofy - Pride Lands#
+- name: remastered/obj/P_LK030.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/P_LK030_RTN.mdlx/-0.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-0LK.dds
+- name: remastered/obj/P_LK030.mdlx/-1.dds
+  multi:
+  - name: remastered/obj/P_LK030_RTN.mdlx/-1.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-1LK.dds
+- name: remastered/obj/P_LK030.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/P_LK030_RTN.mdlx/-2.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0002GoofyStone.dds
+
+
+#Goofy - Space Paranoids#
+- name: remastered/obj/P_EX030_TR.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/P_EX030_TR_RTN.mdlx/-0.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-0TR.dds
+- name: remastered/obj/P_EX030_TR.mdlx/-1.dds
+  multi:
+  - name: remastered/obj/P_EX030_TR_RTN.mdlx/-1.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-2TR.dds
+- name: remastered/obj/P_EX030_TR.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/P_EX030_TR_RTN.mdlx/-2.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-1TR.dds
+- name: remastered/obj/P_EX030_TR.mdlx/-3.dds
+  multi:
+  - name: remastered/obj/P_EX030_TR_RTN.mdlx/-3.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0003TRStone.dds
+
+
+#Goofy - Space Paranoids - Red Lines#
+- name: remastered/obj/P_EX030_TR_TSURU.mdlx/-0.dds
+  multi:
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-0TRRL.dds
+- name: remastered/obj/P_EX030_TR_TSURU.mdlx/-1.dds
+  multi:
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-2TRRL.dds
+- name: remastered/obj/P_EX030_TR_TSURU.mdlx/-2.dds
+  multi:
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/-1TRRL.dds
+- name: remastered/obj/P_EX030_TR_TSURU.mdlx/-3.dds
+  multi:
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0003TRRedLinesStone.dds
+
+
+#Goofy - Space Paranoids - High Poly#
+- name: remastered/obj/H_ZZ030_TR.mdlx/-0.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-1TRHP.dds
+- name: remastered/obj/H_ZZ030_TR.mdlx/-1.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-2TRHP.dds
+- name: remastered/obj/H_ZZ030_TR.mdlx/-2.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/-3TRHP.dds
+- name: remastered/obj/H_ZZ030_TR.mdlx/-3.dds
+  multi:
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: textures/Texture0000TRStone.dds
+
+
+#Goofy - Timeless River#
+- name: remastered/obj/P_WI030.mdlx/-0.dds
+  multi:
+  - name: remastered/obj/P_WI030_RTN.mdlx/-0.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: textures/Texture0000WIStone.dds
+
+#########
+#MUSTARD#
+#########
+- name: se\se000.win32.scd
+  method: copy
+  source:
+  - name: MUSTARD.scd
+
+########
+#TIPPER#
+########
+#Axel#
+- name: obj/B_EX110.mdlx
+  multi:
+  - name: obj/B_EX110_FRIEND.mdlx
+  - name: obj/B_EX110_RTN.mdlx
+  - name: obj/B_EX110_SKIRMISH.mdlx
+  - name: obj/B_EX110_GM.mdlx
+  - name: obj/B_EX110_LV99.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX110.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX110.texture
+
+
+#Demyx#
+- name: obj/B_EX120.mdlx
+  multi:
+  - name: obj/B_EX120_GM.mdlx
+  - name: obj/B_EX120_HB.mdlx
+  - name: obj/B_EX120_HB_LV99.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX120.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX120.texture
+
+
+#Larxene#
+- name: obj/B_EX400.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX400.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX400.texture
+
+
+#Lexaeus#
+- name: obj/N_CM020.mdlx
+  multi:
+  - name: obj/N_CM020_BTL.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_cm
+    type: model
+    method: copy
+    source:
+    - name: tigger/N_CM020.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/N_CM020.texture
+
+
+#Luxord#
+- name: obj/B_EX150.mdlx
+  multi:
+  - name: obj/B_EX150_LV99.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX150.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX150.texture
+
+
+#Marluxia#
+- name: obj/N_CM000.mdlx
+  multi:
+  - name: obj/N_CM000_BTL.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_cm
+    type: model
+    method: copy
+    source:
+    - name: tigger/N_CM000.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/N_CM000.texture
+
+
+#Marluxia Texture Replacements Because Reasons#
+- name: remastered/obj/N_CM000.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/N_CM000_BTL.mdlx/-2.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/hair.dds
+
+- name: remastered/obj/N_CM000.mdlx/-3.dds
+  multi:
+  - name: remastered/obj/N_CM000_BTL.mdlx/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/scythe.dds
+
+- name: remastered/obj/N_CM000.mdlx/-4.dds
+  multi:
+  - name: remastered/obj/N_CM000_BTL.mdlx/-4.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/tigger.dds
+
+
+
+#Roxas#
+- name: obj/B_EX390.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX390.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX390.texture
+
+- name: obj/N_EX820_BTL.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX390.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX390.texture
+
+
+#Saix#
+- name: obj/B_EX160.mdlx
+  multi:
+  - name: obj/B_EX160_GM.mdlx
+  - name: obj/B_EX160_LV99.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX160.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX160.texture
+
+
+#Vexen
+- name: obj/N_CM040.mdlx
+  multi:
+  - name: obj/N_CM040_BTL.mdlx
+  - name: obj/N_CM040_GM.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_cm
+    type: model
+    method: copy
+    source:
+    - name: tigger/N_CM040.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/N_CM040.texture
+
+#Vexen Texture Replacements To Stop The Horror#
+- name: remastered/obj/N_CM040.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/N_CM040_BTL.mdlx/-2.dds
+  - name: remastered/obj/N_CM040_GM.mdlx/-2.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/shield.dds
+
+- name: remastered/obj/N_CM040.mdlx/-3.dds
+  multi:
+  - name: remastered/obj/N_CM040_BTL.mdlx/-3.dds
+  - name: remastered/obj/N_CM040_GM.mdlx/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/tigger.dds
+
+#Xaldin#
+- name: obj/B_EX130.mdlx
+  multi:
+  - name: obj/B_EX130_GM.mdlx
+  - name: obj/B_EX130_LV99.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX130.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX130.texture
+
+
+#Xemnas 1#
+- name: obj/B_EX170.mdlx
+  multi:
+  - name: obj/B_EX170_LV99.mdlx
+  - name: obj/B_EX170_RTN.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX170.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX170.texture
+
+
+#Final Xemnas#
+- name: obj/B_EX170_LAST.mdlx
+  multi:
+  - name: obj/B_EX170_LAST_LV99.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX170_LAST.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX170_LAST.texture
+
+#Final Xemnas Texture Replacement Because GoA re-adds the remastered texture for some reason#
+- name: remastered/obj/B_EX170_LAST.mdlx/-3.dds
+  multi:
+  - name: remastered/obj/B_EX170_LAST_LV99.mdlx/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/tigger.dds
+
+- name: remastered/obj/B_EX170_LAST.mdlx/-6.dds
+  multi:
+  - name: remastered/obj/B_EX170_LAST_LV99.mdlx/-6.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/tigger.dds
+
+
+
+#Xigbar#
+- name: obj/B_EX140.mdlx
+  multi:
+  - name: obj/B_EX140_GM.mdlx
+  - name: obj/B_EX140_LV99.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX140.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX140.texture
+
+
+#Zexion#
+- name: obj/B_EX370.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX370.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX370.texture
+
+
+#Lingering Will#
+- name: obj/B_EX420.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: tigger/B_EX420.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/B_EX420.texture
+
+
+#Sephiroth (KH2 Sixth)#
+- name: obj/N_HB630.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_hb
+    type: model
+    method: copy
+    source:
+    - name: tigger/N_HB630.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/N_HB630.texture
+
+
+#Sephiroth (KH2 Fifth)#
+- name: obj/N_HB590_GM.mdlx
+  multi:
+  - name: obj/N_HB590_RTN.mdlx
+  - name: obj/N_HB590_BTL.mdlx
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: n_hb
+    type: model
+    method: copy
+    source:
+    - name: tigger/N_HB630.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: tigger/N_HB630.texture
+
+
+###Room Texture Replacements###
+- name: remastered/map/hb32.map/-69.dds #Old Mansion (AS/DATA Fight)
+  multi:
+  - name: remastered/map/hb33.map/-0.dds #Station of Remembrance#
+  - name: remastered/map/hb33.map/-1.dds #Station of Remembrance#
+  - name: remastered/map/hb34.map/-2.dds #Destiny Island#
+  - name: remastered/map/hb38.map/-0.dds #Station of Oblivion#
+  - name: remastered/map/tt40.map/-3.dds #Betwixt and Between#
+  - name: remastered/map/tt40.map/-4.dds #Betwixt and Between#
+  - name: remastered/map/tt40.map/-5.dds #Betwixt and Between#
+  - name: remastered/map/tt41.map/-69.dds #The Old Mansion (Hopefully also Data)#
+  - name: remastered/map/eh20.map/-1.dds #World of Nothing (Final Xem)#
+  - name: remastered/map/eh20.map/-11.dds #World of Nothing (Final Xem)#
+  - name: remastered/map/eh20.map/-12.dds #World of Nothing (Final Xem)#
+  - name: remastered/map/eh21.map/-21.dds #Station of Awakening#
+  - name: remastered/map/dc07.map/-6.dds #The Wilderness (Lingering William)#
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: tigger/bounce.dds
+
+#####
+#TLC#
+#####
+#############
+#Map Texture#
+#############
+#HB26 - Garden of Assemblage#
+- name: remastered/map/hb26.map/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: TLC/TLC.dds
